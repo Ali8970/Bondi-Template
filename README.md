@@ -1,5 +1,4 @@
 # Bondi-Template
-
 Fronend Website
 Tools:
 HTML
